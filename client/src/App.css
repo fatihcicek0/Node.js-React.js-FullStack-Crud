@@ -1,0 +1,31 @@
+.App {
+  background-color: rgb(255, 252, 252);
+}
+
+#navi {
+  margin-top: -20px;
+  background-color: rgb(68, 132, 211);
+}
+
+li {
+  list-style-type: none;
+
+}
+
+#navi a {
+  margin-top: 10px;
+  border-radius: 5px;
+  float: left;
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+a:hover {
+  background-color: rgb(46, 76, 176);
+}
+
+#content-card:hover {
+  background-color: rgb(252, 251, 251);
+}
